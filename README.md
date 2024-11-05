@@ -8,7 +8,7 @@
 
 **The project involves building a micro-blogging platform for a startup company, where you will serve as the first cloud engineer. The application is divided into a frontend and a backend, utilizing specific technologies and tools to ensure a scalable and efficient development process.**
 
-![Cruddur AWS Diagram](_docs\assets\Cruddur-AWS-Application-Diagram.png)
+![Cruddur AWS Diagram](_docs/assets/Cruddur-AWS-Application-Diagram.png)
 
 ## Project Components
 
